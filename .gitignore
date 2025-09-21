@@ -1,0 +1,65 @@
+# ----------------------
+# Python / FastAPI
+# ----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Bytecode cache
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ----------------------
+# Node / React
+# ----------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Build output
+/dist
+/build
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# ----------------------
+# OS / Editor
+# ----------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# ----------------------
+# Misc
+# ----------------------
+# Ignore feedback logs
+feedback.jsonl
